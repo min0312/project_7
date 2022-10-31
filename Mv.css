@@ -1,0 +1,39 @@
+* {
+  margin : 0px;
+  padding : 0px;
+}
+
+h1 {
+  color : #f7f3ec;
+  background-color: #2C3639;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 5px;
+}
+
+.body {
+  background-color: #DCD7C9;
+  color: #2C3639;
+  padding-bottom: 20px;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  height: 30px;
+  padding : 10px;
+}
+
+li {
+  padding: 10px 20px 5px;
+  list-style: none; 
+}
+
+.infoUl {
+  background-color: #DCD7C9;
+  color: #2C3639;
+  padding-bottom: 10px;
+}
